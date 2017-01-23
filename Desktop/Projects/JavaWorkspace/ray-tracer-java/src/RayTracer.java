@@ -3,7 +3,7 @@ import javax.swing.JFrame;
 /* 
  * 
  * Ray Tracer with ambient, diffuse, and specular lighting (Phong reflection model), light occlusion,
- *  and variable degrees of reflection. Written by Brian Santoso.
+ *  and variable degrees of reflection. Written by Brian Santoso for APCSA.
  *  
  */
 
