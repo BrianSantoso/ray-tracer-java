@@ -4,6 +4,5 @@ Ray Tracer with ambient, diffuse, and specular lighting (Phong reflection model)
 ![alt tag](https://github.com/BrianSantoso/images/blob/master/raytracer/raytracer2.PNG?raw=true)
 
 
-Cel Shading Preview:
-![alt tag](https://github.com/BrianSantoso/ray-tracer-java/blob/master/celShading.PNG)
+
 
